@@ -4,6 +4,6 @@ Above folders consists five PowerBI projects in which I have used some power que
  **Power Query Transformations:**
  
  **Visualizations:**
- 1. Used tables,
+ 1. Used Text box, Tables, Horizantal and Vertical bar graphs, Line graph with Bar graph, line chart, Slicers, Top down menu, Cards, Pie chart, KPIs and finally added a background for canvas.
  2. Used Q&A Section.
    
