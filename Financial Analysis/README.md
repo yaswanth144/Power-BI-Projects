@@ -1,4 +1,9 @@
 # Financial Analysis
+![P L](https://github.com/yaswanth144/Power-BI-Projects/assets/54733845/f3a54934-c4f8-4722-af84-a6cc3ba691c7)
+![Profit and Loss](https://github.com/yaswanth144/Power-BI-Projects/assets/54733845/dbe3511b-1a8d-4a08-a554-3b08bf298842)
+![Country](https://github.com/yaswanth144/Power-BI-Projects/assets/54733845/54eb6455-4090-4b46-9e02-07d5bf9975e7)
+![Revenue](https://github.com/yaswanth144/Power-BI-Projects/assets/54733845/32b0392a-6e47-471b-8915-4bee41186160)
+
 
 # Dashboard:
 1. **Revenue Page:** Created a dashboard for containing
