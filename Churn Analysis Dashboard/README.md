@@ -4,12 +4,12 @@ Created Q&A for commonly asked questions such that information about the asked q
 
 I have collected the Telecom Churn Customer dataset from Kaggle, analyzed the dataset, and prepared this report Using Power BI.
 
-Skills: Data Modelling, Machine Learning, Power BI
+Skills: Power query transformations, DAX and visualizations in Power BI.
 
-This report has 4 Sections: 1. Churned Customer Analysis 2. Customer Overall Analysis 3. Not Churn Customer Risk Analysis
+This report has 3 Sections: 1. Churned Customer Analysis 2. Customer Overall Analysis 3. Q&A.
 
-1st Section: Churned Customer Analysis: In this Section, I analyzed only Churned customers from the dataset and show the results with proper visualization.
+1st Section: Churned Customer Analysis: In this Section, I analyzed Churned customers from the dataset and visualized the results with proper visualizations.
 
-2nd Section: Customer Analysis: In this Section, I analyzed overall customer data and show the results with proper visualization.
+2nd Section: Customer Analysis: In this Section, I analyzed overall customer data and visualized the results with proper visualizations.
 
-3th Section: Q & A: This page has Q&A Section.
+3th Section: Q & A: This page contains Q&A Section to get answers for frequently answered questions.
