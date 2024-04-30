@@ -1,4 +1,8 @@
 # IPL Live Score Dashboard 
+![Home Page](https://github.com/yaswanth144/Power-BI-Projects/assets/54733845/5ed0b9cc-b600-47e2-ac8b-8c3cd89e7117)
+![Live Score](https://github.com/yaswanth144/Power-BI-Projects/assets/54733845/7f054d11-731e-4a09-9149-ac7114cbc65f)
+![Points Table](https://github.com/yaswanth144/Power-BI-Projects/assets/54733845/cd94f301-8150-4a3b-bd2c-8e8e5d8647ff)
+
 # Data 
 Collected live data from RapidAPI website. First we have to create account in rapidApi to use cricbuzz api. After creating account, search for cricbuzz api.
 # Power Query Transformations
