@@ -1,7 +1,5 @@
 # Churn Analysis using PowerBI.
 
-Created Q&A for commonly asked questions such that information about the asked questions can be retreived easily.
-
 I have collected the Telecom Churn Customer dataset from Kaggle, analyzed the dataset, and prepared this report Using Power BI.
 
 Skills: Power query transformations, DAX and visualizations in Power BI.
