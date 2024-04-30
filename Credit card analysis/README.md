@@ -1,4 +1,7 @@
 # Credit Card Report Analysis
+![Credit card transaction](https://github.com/yaswanth144/Power-BI-Projects/assets/54733845/165888d3-579d-4d4d-ad16-b0c7cf6f9adf)
+![Credit card customer](https://github.com/yaswanth144/Power-BI-Projects/assets/54733845/6f86f9bf-d19c-4731-ab40-1a207211eceb)
+![Insights](https://github.com/yaswanth144/Power-BI-Projects/assets/54733845/577d1979-34b6-4075-9ca3-547c0e2e1662)
 
 # Objective:
 The purpose of this project is to know credit card sales by knowing which type of customers are giving more revenue. 
